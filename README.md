@@ -1,7 +1,7 @@
 # MojangBypass
 Forge Mod to bypass the mojang server blacklist
 
-The download for the mod can be found in the build folder.
+Download: [MojangBypasss-0.1](https://github.com/xPenguinx/MojangBypass/blob/main/build/libs/MojangBypass-0.1.jar)
 
 Credits:
 https://github.com/videogame-hacker/MojangBlacklistBypass (Found the actual bypass)
