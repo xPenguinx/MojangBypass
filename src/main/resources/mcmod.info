@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MojangBypass",
+  "name": "MojangBypass",
+  "description": "Log on P2W servers smh my head",
+  "version": "0.1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Med??????"],
+  "credits": "https://github.com/videogame-hacker/MojangBlacklistBypass",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
